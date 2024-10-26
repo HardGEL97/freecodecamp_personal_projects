@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title id="title">TB303 By ROLAND</title>
+ <head>
+   <link rel="stylesheet" href="styles.css">
+ </head>
+ <body>
+   <main id="main">
+     <h1 id="title">TB303</h1>
+     <p>by Roland</p>
+     <figure id="img-div">
+       <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/0/01/TB303_Front_View.jpg" alt="tb303 image">
+       <figcaption id="img-caption">
+         "Roland's TB303 bassline synthezier"
+       </figcation>
+ </figure>
+ <section id="tribute-info">
+   <h3 id="headline">Here's a time line of the TB303 by Roland:</h3>
+   <ul>
+     <li><strong>Released in 1981:</strong> The Roland TB-303 (Transistor Bass) was originally designed as a bass synthesizer to simulate bass guitars. It was intended for musicians to accompany themselves during practice sessions or in small bands, particularly for genres like rock or pop.
+     </li>
+     <li><strong>Commercial Failure:</strong> The TB-303 was not commercially successful upon release. Its synthesized bass sound didn’t adequately replicate a real bass guitar, which led to poor sales. Roland discontinued the production of the TB-303 in 1984 after selling less than 10,000 units.</li>
+     <li><strong>Adopted by Electronic Musicians in the Late 1980s:</strong> The machine found a second life in the mid-to-late 1980s when electronic musicians in Chicago and Europe began experimenting with it. Its unique, squelchy sound became central to the emerging acid house genre.</li>
+     <li><strong>The Birth of Acid House:</strong> In 1987, DJ Pierre and his group Phuture used the TB-303 to create the track "Acid Tracks," which is considered the first acid house record. The characteristic "acid" sound of the TB-303's resonant filter sweep became iconic in dance music.</li>
+     <li><strong>Widespread Influence in the 1990s:</strong> Throughout the 1990s, the TB-303 became a defining sound in electronic music genres like techno, trance, and house. Its affordability in second-hand markets and distinctive tonal qualities made it a staple of underground club scenes worldwide.
+
+</li>
+     <li><strong>Widespread Influence in the 1990s:</strong> Throughout the 1990s, the TB-303 became a defining sound in electronic music genres like techno, trance, and house. Its affordability in second-hand markets and distinctive tonal qualities made it a staple of underground club scenes worldwide.
+
+</li>
+
+   </ul>
+   <blockquote >
+   <p>"The TB-303 turned missteps into music, transforming a failed bass synth into the heartbeat of acid house and electronic dance culture."</p>
+   <cite>--Anonymous--</cite>
+  </blockquote>
+   <h3>read more <a id="tribute-link" href="https://en.wikipedia.org/wiki/Roland_TB-303"target="_blank">here</a></h3>
+   </section>
+   </main>
+   
+</body>
+
+
+
+
+
+
+
+
+
